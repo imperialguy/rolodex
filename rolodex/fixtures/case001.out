@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "color": "red", 
+      "firstname": "Blair", 
+      "lastname": "Clary", 
+      "phonenumber": "463-118-2451", 
+      "zipcode": "07256"
+    }, 
+    {
+      "color": "pink", 
+      "firstname": "Hung", 
+      "lastname": "Moxley", 
+      "phonenumber": "667-132-9000", 
+      "zipcode": "93381"
+    }, 
+    {
+      "color": "aqua marine", 
+      "firstname": "Len", 
+      "lastname": "Pollack", 
+      "phonenumber": "642-573-6473", 
+      "zipcode": "29868"
+    }
+  ], 
+  "errors": []
+}

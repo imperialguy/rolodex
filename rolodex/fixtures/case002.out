@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "color": "red", 
+      "firstname": "Kerri E.", 
+      "lastname": "Chandler", 
+      "phonenumber": "818-246-5061", 
+      "zipcode": "32868"
+    }, 
+    {
+      "color": "yellow", 
+      "firstname": "Quinton R.", 
+      "lastname": "Liptak", 
+      "phonenumber": "653-889-7235", 
+      "zipcode": "70703"
+    }, 
+    {
+      "color": "blue", 
+      "firstname": "Ria K.", 
+      "lastname": "Tillotson", 
+      "phonenumber": "196-910-5548", 
+      "zipcode": "97671"
+    }
+  ], 
+  "errors": []
+}

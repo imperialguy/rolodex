@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "color": "pink", 
+      "firstname": "Hung", 
+      "lastname": "Moxley", 
+      "phonenumber": "667-132-9000", 
+      "zipcode": "93381"
+    }
+  ], 
+  "errors": [
+    0, 
+    1
+  ]
+}
