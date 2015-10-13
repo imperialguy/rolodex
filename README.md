@@ -31,21 +31,21 @@ After setting up your environment and dependencies,
 You can simply run nosetests from /path/to/rolodex. I wrote tests to only cover the actual rolodex logic.
 If all goes well, it should appear like this
 
-(rolo)$ cd /path/to/rolodex
-(rolo)$ nosetests
-test_invalid_cases (rolodex.tests.test_roldy.TestRolodex) ... ok
-test_valid_cases (rolodex.tests.test_roldy.TestRolodex) ... ok
+      (rolo)$ cd /path/to/rolodex
+      (rolo)$ nosetests
+      test_invalid_cases (rolodex.tests.test_roldy.TestRolodex) ... ok
+      test_valid_cases (rolodex.tests.test_roldy.TestRolodex) ... ok
 
-Name               Stmts   Miss  Cover   Missing
-------------------------------------------------
-rolodex.py             0      0   100%   
-rolodex/roldy.py      56      9    84%   30-32, 73-82, 86
-------------------------------------------------
-TOTAL                 56      9    84%   
-----------------------------------------------------------------------
-Ran 2 tests in 0.096s
+      Name               Stmts   Miss  Cover   Missing
+      ------------------------------------------------
+      rolodex.py             0      0   100%   
+      rolodex/roldy.py      56      9    84%   30-32, 73-82, 86
+      ------------------------------------------------
+      TOTAL                 56      9    84%   
+      ----------------------------------------------------------------------
+      Ran 2 tests in 0.096s
 
-OK
+      OK
 
 
 ## Notes
